@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "typeinfo": "c",
+        "stat.h": "c",
+        "defs.h": "c",
+        "proc.h": "c",
+        "user.h": "c",
+        "spinlock.h": "c",
+        "memlayout.h": "c",
+        "x86.h": "c",
+        "mmu.h": "c",
+        "param.h": "c",
+        "types.h": "c",
+        "fs.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false,
+    "C_Cpp.errorSquiggles": "Enabled"
+}
