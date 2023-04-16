@@ -1,9 +1,9 @@
 # 운영체제
 
-github: https://github.com/9root3/hyu-operating-system-ele3021.git
-강의 번호: ELE3021
-담당 교수: 강수용
-수강학기: 2022-1
+- github: https://github.com/9root3/hyu-operating-system-ele3021.git
+- 강의 번호: ELE3021
+- 담당 교수: 강수용
+- 수강학기: 2022-1
 
 한양대학교 3학년 1학기 **운영체제** 수업 요약입니다.
 
@@ -46,7 +46,7 @@ github: https://github.com/9root3/hyu-operating-system-ele3021.git
 
 ---
 
-7️⃣ **Midterm Exam!**
+**Midterm Exam!**
 
 [Mid-term solution](https://www.notion.so/Mid-term-solution-4acb206348a84a8492ccecedb29acd22)
 
